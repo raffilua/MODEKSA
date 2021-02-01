@@ -34,6 +34,6 @@ fi
 sudo chmod +x tg
 lua MODEKSA.lua
 sudo chmod +x MODEKSA
-sudo chmod +x ./MODEKSA
-./MODEKSA
+sudo chmod +x ./tg
+./tg
 fi
