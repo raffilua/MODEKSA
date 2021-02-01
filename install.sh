@@ -11,7 +11,7 @@ get() {
 rm -fr MODEDEV.lua
 rm -fr sudo.lua
 wget "https://raw.githubusercontent.com/raffilua/MODEKSA/master/MODEDEV.lua"
-lua start.lua
+lua MODEKSA.lua
 }
 installall(){
 apt update
